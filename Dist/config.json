@@ -1,0 +1,10 @@
+{
+"bot_enabled":false,
+"bot_add_full_post":true,
+"telegram_channel_id":"@test_channel_3",
+"refresh_interval":10,
+"vk_group_id":"112984583",
+"telegram_key":"205801143:AAEFD9GkMTVOO38YFQjJX1a6RxCEyMGNYpw",
+"bot_add_link":true,
+"vk_access_token":"1767432a355097cc2d77aa1c33af5d3c5b61c2f249ecc3b2f5685908ff8e2b152d282ef094ac08ebd5f49",
+}
